@@ -1,2 +1,41 @@
-# 6407aa11-barbershop-management-event-sc
-Your barber chair sits empty because clients forget appointments—or worse, they book then vanish. The Barbershop Management Event Scheduler and RSVP Manager Bot eliminates no-shows by automating reminders, confirmations, and client engagement—without you lifting a finger.  This bot transforms how you manage barbershop events and appointments by int
+# Barbershop Management Event Scheduler and RSVP Manager Bot
+
+> Bot for Barbershop
+
+Your barber chair sits empty because clients forget appointments—or worse, they book then vanish. The Barbershop Management Event Scheduler and RSVP Manager Bot eliminates no-shows by automating reminders, confirmations, and client engagement—without you lifting a finger.
+
+This bot transforms how you manage barbershop events and appointments by...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | ✅ | ✅ |
+| Standard responses | ✅ | ✅ |
+| Community access | ✅ | ✅ |
+| Custom commands | ❌ | ✅ |
+| Analytics dashboard | ❌ | ✅ |
+| Priority processing | ❌ | ✅ |
+| API webhooks | ❌ | ✅ |
+| Unlimited servers | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/aFa3cvbHhgaUg889rKcZq2E)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
